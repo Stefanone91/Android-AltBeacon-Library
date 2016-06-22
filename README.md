@@ -7,11 +7,11 @@ A Xamarin.Android binding of the [AltBeacon Android Beacon Library](https://gith
 
 - [Nuget Package](https://www.nuget.org/packages/AndroidAltBeaconLibrary/)
 - [Xamarin Component](http://components.xamarin.com/view/android-altbeacon-library)
-- Download the binary from [Releases](https://github.com/chrisriesgo/Android-AltBeacon-Library/releases)
+- Download the binary from [Releases](https://github.com/Stefanone91/Android-AltBeacon-Library/releases)
 
 ## Reference Application
 
-A simple [sample application](https://github.com/chrisriesgo/Android-AltBeacon-Library/tree/master/Samples/Android/AndroidAltBeaconLibrary.Sample) has been included with this repository to demonstrate ranging proximity beacons and a battery-saving background ranging feature.
+A simple [sample application](https://github.com/Stefanone91/Android-AltBeacon-Library/tree/master/Samples/Android/AndroidAltBeaconLibrary.Sample) has been included with this repository to demonstrate ranging proximity beacons and a battery-saving background ranging feature.
 
 
 ## Xamarin Component
@@ -19,25 +19,9 @@ The [Android AltBeacon Library](http://components.xamarin.com/view/android-altbe
 
 ## Changes
 
-[v2.7](https://github.com/chrisriesgo/Android-AltBeacon-Library/releases/tag/2.7)
+[v2.8.1](https://github.com/Stefanone91/Android-AltBeacon-Library/releases/tag/2.8.1)
 
-- Binding of version [2.7](https://github.com/AltBeacon/android-beacon-library/releases/tag/2.7) of the android-beacon-library
-
-[v2.1.4](https://github.com/chrisriesgo/Android-AltBeacon-Library/releases/tag/2.1.4)
-
-- Binding of version [2.1.4](https://github.com/AltBeacon/android-beacon-library/releases/tag/2.1.4) of the android-beacon-library
-
-[v2.1.3](https://github.com/chrisriesgo/Android-AltBeacon-Library/releases/tag/2.1.3)
-
-- Binding of version [2.1.3](https://github.com/AltBeacon/android-beacon-library/releases/tag/2.1.3) of the android-beacon-library
-
-[v2.1.0](https://github.com/chrisriesgo/Android-AltBeacon-Library/releases/tag/2.1.0)
-
-- Binding of version [2.1.2](https://github.com/AltBeacon/android-beacon-library/releases/tag/2.1.2) of the android-beacon-library
-
-[v2.0](https://github.com/chrisriesgo/Android-AltBeacon-Library/releases/tag/2.0)
-
-- Initial binding of the android-beacon-library
+- Binding of version [2.8.1](https://github.com/AltBeacon/android-beacon-library/releases/tag/2.8.1) of the android-beacon-library
 
 
 ## Have I Missed Something?
